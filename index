@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta charset="utf-8">
+    <meta content="width=device-width, 
+                   initial-scale=1.0, 
+                   maximum-scale=1.0,
+                   user-scalable=0" name="viewport">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/siderbar.css">
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+  <body>
+    <header class="header">
+      <div class="logo-describe">道法自然 开心乐易</div>
+      <img class="logo" src="images/logo.jpg">    
+    </header>
+
+    <main >
+      <section class="frame-grid">
+        <div class="sigle-frame">
+          <div class="sigle-container">
+            nihao
+          </div>
+          
+        </div>
+
+      </section>
+     
+
+    </main>
+
+    <nav class="sidebar">
+      <div class="sidebar-link">
+        <img src="images/home.svg">
+        <div> home </div>
+      </div>
+      <div class="sidebar-link">
+        <img src="images/explore.svg">
+        <div> explore </div>
+      </div>
+      <div class="sidebar-link">
+        <img src="images/subscriptions.svg">
+        <div> 订阅 </div>
+      </div>
+      <div class="sidebar-link">
+        <img src="images/originals.svg">
+        <div> originals </div>
+      </div>
+      <div class="sidebar-link">
+        <img src="images/youtube-music.svg">
+        <div> youtube-music </div>
+      </div>
+      <div class="sidebar-link">
+        <img src="images/library.svg">
+        <div> library </div>
+      </div>
+      <div>
+
+      </div>
+
+
+    </nav>
+  </body>
+</html>
